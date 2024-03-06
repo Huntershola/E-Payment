@@ -36,7 +36,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [huntershola007@gmail.com](mailto:huntershola007@gmail.com).
+For any inquiries or feedback, please contact me at [huntershola007@gmail.com](mailto:huntershola007@gmail.com).
 
 Visit the project repository: [Account Verification Page](https://github.com/Huntershola/E-Payment.git)
 
